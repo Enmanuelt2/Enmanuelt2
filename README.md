@@ -31,8 +31,8 @@
 | alias npmt = "npm test" |  ejecuta las pruebas.               |
 
 ## Mis hobbies son:
-1. 🥑 **Aprender ingles.**
-2. 🍔 **Hacer deporte.**
+2. **Hacer deporte.**
 3. **Ver series.**
-4. **Aprender de otras culturas a traves de la comida.🍳**
-#Muchas gracias por el tiempo.😁
+1. **Aprender ingles.**
+4. **Aprender de otras culturas a traves de la comida.🍳🥑🍔**
+### Muchas gracias por el tiempo.😁
